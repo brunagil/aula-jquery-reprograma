@@ -34,3 +34,4 @@
 
 
 Objetivo da semana: Compreender o que são bibliotecas externas de Javascript. Além disso, estar confortável com o uso do jQuery. Especificamente é preciso entender seletores, animações e as funções principais dessa biblioteca
+
