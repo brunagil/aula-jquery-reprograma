@@ -1,3 +1,6 @@
+- JQUERY DOCUMENTAÇÃO: Manipulation: https://api.jquery.com/category/manipulation/
+
+
 1. Manipulação do DOM
 2. Manipulando via tags
 3. Manipulando elementos
