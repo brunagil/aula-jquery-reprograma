@@ -30,3 +30,14 @@ $(function() {
 // ready(): DOM completamente carregado e pronto para realizar uma ação.
 
 
+
+
+/*
+1) Crie um comando que exiba uma mensagem, avisando ao usuário que ele clicou em um
+link.
+
+2) Em uma página HTML o usuário deverá ser informado de que o link clicado está
+funcionando, escreva um comando que faça isso.
+
+
+*/

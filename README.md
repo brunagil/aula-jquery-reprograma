@@ -28,10 +28,10 @@
   **14/05**
 
   * 1 - Revisão!
-  * 2 - Parallax e outras animações
-  * 3 - Desvanecimento e Menus
+  * 2 - Efeitos
+  * 3 - Parallax e outras animações
   * 4 - Exercício final
 
 
-Objetivo da semana: Compreender o que são bibliotecas externas de Javascript. Além disso, estar confortável com o uso do jQuery. Especificamente é preciso entender seletores, animações e as funções principais dessa biblioteca
+__Objetivo da semana__: Conhecer o JQuery, entender sua história e suas vantagens. Saber utilizar o JQuery para manipular o DOM e outros elementos de uma aplicação web. Entender seletores, animações e as funções principais dessa biblioteca. 
 

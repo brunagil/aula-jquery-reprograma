@@ -1,10 +1,8 @@
 /*
 
-  Biscoito da sorte
+  Biscoito da sorte - Versão JQuery 
 
-  1. selecione a imagem do biscoito da sorte. 
-  2. selecione o parágrafo que receberá a mensagem da sorte. 
-  3. crie a função "fraseDaSorte", essa função deve alterar o texto do parágrafo para uma frase randômica do array acima.
+  Ao clicar no biscoito da sorte, troque o texto do parágrafo para uma frase aleatória que está guardada na nossa array 'frases'
     
 */
 
@@ -24,16 +22,6 @@ const frases = [
     "Não importa o tamanho da montanha, ela não pode tapar o sol.",
     "O bom-senso vai mais longe do que muito conhecimento.",
 ]
-
-
-// const biscoito = document.querySelector('img')
-// const mensagem = document.querySelector('#message')
-
-// function fraseDaSorte() {
-//   const numeroAleatorio = Math.floor(Math.random() * frases.length)
-//   mensagem.innerText = frases[numeroAleatorio]
-// }
-
 
 //Em JQuery
 

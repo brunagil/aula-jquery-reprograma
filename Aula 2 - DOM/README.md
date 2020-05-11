@@ -1,4 +1,4 @@
-- JQUERY DOCUMENTAÇÃO: Manipulation: https://api.jquery.com/category/manipulation/
+#### JQUERY DOCUMENTAÇÃO: Manipulation: https://api.jquery.com/category/manipulation/
 
 
 1. Manipulação do DOM
@@ -6,20 +6,12 @@
 3. Manipulando elementos
 3. Travesing
 
-
-
-
-
-
-
-
-
-O que é uma travessia?
+### O que é uma travessia?
 jQuery travessia, que significa "movimento", de acordo com a sua relação com outros elementos para "Localizar" (ou selecione) elementos HTML. Seleccione um item para começar, e a opção de se mover até que os elementos que você espera para chegar.
 
 A figura abaixo mostra uma árvore genealógica. Por jQuery travessia, você pode escolher entre o (atual) elemento inicial, mover facilmente (ancestral) na árvore genealógica para cima, movimento descendente (filhos), o movimento horizontal (compatriotas). Este movimento é chamado a travessia DOM.
 
-jQuery Dimensões
+
 
 Análise do ícone:
 
