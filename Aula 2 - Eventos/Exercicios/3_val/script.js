@@ -10,3 +10,17 @@ do input deve completar a frase.
 
 
 */
+
+$(document).ready(function() {
+    $('#botao-replicar').click(function() {
+      let input = $('#campo-nome');
+      let nome = input.val();
+      if(nome != '') {
+        input.val('');
+        $('#texto-replicado').text("A desenvolvedora mais incrível desse ano será a " + nome);
+      }
+    });
+  
+  })
+  
+  

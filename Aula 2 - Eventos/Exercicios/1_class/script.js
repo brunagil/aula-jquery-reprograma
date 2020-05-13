@@ -15,3 +15,32 @@
   5. Adicionei uma classe errada! Suma com a classe 'wrongClass', utilizando JQuery
 */
 
+
+$(document).ready(function() { 
+
+  let nickname = "Bru"
+  let cidade = "São Paulo"
+  let favoritos = "Os Miseráveis, Mulan"
+  let favDoMomento = "Parasita"
+  
+  $('body').css('font-family', "Arial, sans-serif");
+  
+  $('#nickname').text(nickname)
+  $('#favoritos').text([favoritos, favDoMomento]);
+  $('#cidade').text(cidade)
+  $('h1')
+    .text('Sobre mim')
+    .addClass('titulo')
+  
+  $('li').addClass('list');
+  $('span').addClass('item-list');
+
+  //resolução 1
+  $('li').eq(0).removeClass();
+
+  //resolução 2
+  $('li')
+    .even()
+    .removeClass("wrongClass");
+
+})
